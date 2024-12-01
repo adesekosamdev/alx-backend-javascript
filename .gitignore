@@ -1,5 +1,5 @@
 */.eslintrc.js
 */node_modules
 */babel.config.json
-*/package.json
+# */package.json
 */package-lock.json
